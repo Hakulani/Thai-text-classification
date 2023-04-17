@@ -51,7 +51,8 @@ if valid_loss < best_valid_loss:
         </pre>
     </ol>
 
-    <h2>Attachments</h2>
+        
+ <h2>Attachments</h2>
     <ul>
         <li>Google Colab notebook file with the final implemented Transformer model, training, and evaluation code</li>
         <li>Screenshots of the captured results for both training and testing, including the F1 score</li>
