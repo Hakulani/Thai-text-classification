@@ -5,13 +5,9 @@
  </head>
 <body>
     <h1>Thai-text-classification</h1>
-    <p>Thai-text-classification using transformer model. Thai Transformers using the Tcas61_2.csv dataset.
-
-    In this project, I developed a Thai text classification model using the state-of-the-art Transformer architecture. 
-    The primary goal was to achieve a high F1 score on the Tcas61_2.csv dataset, which contains Thai text data with binary labels.
-    
-    
-    </p>
+    <p>Thai-text-classification using transformer model. Thai Transformers using the Tcas61_2.csv dataset.</p>
+    <p>In this project, I developed a Thai text classification model using the state-of-the-art Transformer architecture.</p>
+    <p>The primary goal was to achieve a high F1 score on the Tcas61_2.csv dataset, which contains Thai text data with binary labels.</p>
     <h2>Summary of the Fine-tuning Process</h2>
     <ol>
         <li>Balanced the dataset using RandomOverSampler:
