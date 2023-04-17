@@ -1,6 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
+ <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -8,7 +6,6 @@
 <body>
     <h1>Thai-text-classification</h1>
     <p>Thai-text-classification using transformer model. Thai Transformers using the Tcas61_2.csv dataset.</p>
-
     <h2>Summary of the Fine-tuning Process</h2>
     <ol>
         <li>Balanced the dataset using RandomOverSampler:
