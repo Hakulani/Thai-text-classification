@@ -4,8 +4,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Thai-text-classification</title>
-</head>
+ </head>
 <body>
     <h1>Thai-text-classification</h1>
     <p>Thai-text-classification using transformer model. Thai Transformers using the Tcas61_2.csv dataset.</p>
@@ -57,5 +56,7 @@ if valid_loss < best_valid_loss:
         <li>Google Colab notebook file with the final implemented Transformer model, training, and evaluation code</li>
         <li>Screenshots of the captured results for both training and testing, including the F1 score</li>
     </ul>
+        
+        by Witsarut Wongsim
 </body>
 </html>
