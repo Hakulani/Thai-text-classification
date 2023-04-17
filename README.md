@@ -57,6 +57,6 @@ if valid_loss < best_valid_loss:
         <li>Screenshots of the captured results for both training and testing, including the F1 score</li>
     </ul>
         
-        by Witsarut Wongsim
 </body>
 </html>
+        by Witsarut Wongsim
